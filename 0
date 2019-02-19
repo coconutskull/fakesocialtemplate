@@ -1,0 +1,458 @@
+<section id="1">
+
+	<ul class="nav nav-tabs">
+		<li class="active">
+			<a class="show" data-toggle="tab" href="#home">
+
+				<h3>&nbsp; &nbsp;❤ &nbsp;&nbsp;</h3>
+			</a>
+		</li>
+		<li><a class="show" data-toggle="tab" href="#menu1">Intro &nbsp;&nbsp;</a></li>
+		<li><a class="show" data-toggle="tab" href="#menu2">|About &nbsp;&nbsp;</a></li>
+		<li><a class="show" data-toggle="tab" href="#menu3">|Interests &nbsp;&nbsp;</a></li>
+		<li><a class="show active" data-toggle="tab" href="#menu4">|Friends &nbsp;&nbsp;</a></li>
+		<li><a class="show" data-toggle="tab" href="#menu5">|Photos &nbsp;&nbsp;</a></li>
+		<li><a class="show" data-toggle="tab" href="#menu6">|Activity &nbsp;&nbsp;</a></li>
+	</ul>
+	<div class="tab-content">
+		<div class="tab-pane fade in" id="home">
+
+			<h3>
+				<br>
+			</h3>
+
+			<h3>OwO |HOME</h3>
+
+			<p>
+				<br>
+			</p>
+
+			<table style="width: 70%; margin-right: calc(30%);">
+				<tbody>
+					<tr>
+						<td style="width: 100%; background-color: rgb(115, 115, 115);"><img src="https://orig00.deviantart.net/9250/f/2019/048/a/e/banner_fake_by_romacci-dd01bgb.gif" class="fr-fic fr-dib" width="255" height="90"></td>
+					</tr>
+				</tbody>
+			</table>
+
+			<p>
+				<br>
+			</p>
+
+			<p>
+				<br>
+			</p>
+
+			<table style="width: 45%; margin-right: calc(55%);">
+				<tbody>
+					<tr>
+						<td style="width: 100%; background-color: rgb(226, 226, 226);"><sup><strong><span style="color: #737373;">[USERNAME OF CHARA] |&nbsp;</span></strong></sup><span style="color: rgb(115, 115, 115);"><sup><em><span style="font-size: 10px;"><strong>YESTERDAY AT 00:00 AM &middot; SHARED WITH PUBLIC</strong></span></em>
+							</sup>
+							</span>
+
+							<table style="width: 95%; margin-right: calc(2%); margin-left: calc(3%);">
+								<tbody>
+									<tr>
+										<td style="width: 100%; border-color: rgb(255, 255, 255); border-style: double; border-width: 1px; background-color: rgb(255, 255, 255);"><strong><span style="color: #414141;">[TITLE POST]</span></strong><span style="color: #414141;"><br><br><sub>[content here and what not.]</sub><br></span>
+											<br>
+											<br>
+											<br>
+										</td>
+									</tr>
+									<tr>
+										<td style="width: 100%; border-width: 1px; background-color: rgb(226, 226, 226);">👍 👎 &nbsp;<sub><strong>share &nbsp;reply</strong></sub></td>
+									</tr>
+								</tbody>
+							</table><sub><em><span style="color: rgb(115, 115, 115);"><strong>[optional: device used here]</strong></span></em></sub></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<div class="tab-pane fade" id="menu1">
+
+			<h3>
+				<br>
+			</h3>
+
+			<table style="width: 45%; margin-right: calc(55%);">
+				<tbody>
+					<tr>
+						<td style="width: 100%; background-color: rgb(226, 226, 226);"><sup><strong><span style="color: #737373;">[USERNAME OF CHARA] |&nbsp;</span></strong></sup><span style="color: rgb(115, 115, 115);"><sup><em><span style="font-size: 10px;"><strong>YESTERDAY AT 00:00 AM &middot; SHARED WITH PUBLIC</strong></span></em>
+							</sup>
+							</span>
+
+							<table style="width: 95%; margin-right: calc(2%); margin-left: calc(3%);">
+								<tbody>
+									<tr>
+										<td style="width: 100%; border-color: rgb(255, 255, 255); border-style: double; border-width: 1px; background-color: rgb(255, 255, 255);">
+											<div><span style="color: #414141;">INTRODUCTION<br><sub>[content here and what not.]</sub><br></span></div>
+											<br>
+											<br>
+											<br>
+											<br>
+											<br>
+										</td>
+									</tr>
+									<tr>
+										<td style="width: 100%; border-width: 1px; background-color: rgb(226, 226, 226);"><span style="color: #414141;">[like dislike share]</span></td>
+									</tr>
+								</tbody>
+							</table><span style="color: #414141;">[optional: device used here]</span></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<div class="tab-pane fade" id="menu1">
+
+			<h3>
+				<br>
+			</h3>
+
+			<table style="width: 45%; margin-right: calc(55%);">
+				<tbody>
+					<tr>
+						<td style="width: 100%; background-color: rgb(226, 226, 226);"><sup><strong><span style="color: #737373;">[USERNAME OF CHARA] |&nbsp;</span></strong></sup><span style="color: rgb(115, 115, 115);"><sup><em><span style="font-size: 10px;"><strong>YESTERDAY AT 00:00 AM &middot; SHARED WITH PUBLIC</strong></span></em>
+							</sup>
+							</span>
+
+							<table style="width: 95%; margin-right: calc(2%); margin-left: calc(3%);">
+								<tbody>
+									<tr>
+										<td style="width: 100%; border-color: rgb(255, 255, 255); border-style: double; border-width: 1px; background-color: rgb(255, 255, 255);">
+											<div><span style="color: #414141;">INTRODUCTION<br><sub>[content here and what not.]</sub><br></span></div>
+											<br>
+											<br>
+											<br>
+											<br>
+										</td>
+									</tr>
+									<tr>
+										<td style="width: 100%; border-width: 1px; background-color: rgb(226, 226, 226);"><span style="color: #414141;">[like dislike share]</span></td>
+									</tr>
+								</tbody>
+							</table><span style="color: #414141;">[optional: device used here]</span></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<div class="tab-pane fade" id="menu1">
+
+			<h3>
+				<br>
+			</h3>
+
+			<table style="width: 45%; margin-right: calc(55%);">
+				<tbody>
+					<tr>
+						<td style="width: 100%; background-color: rgb(226, 226, 226);"><sup><strong><span style="color: #737373;">[USERNAME OF CHARA] |&nbsp;</span></strong></sup><span style="color: rgb(115, 115, 115);"><sup><em><span style="font-size: 10px;"><strong>YESTERDAY AT 00:00 AM &middot; SHARED WITH PUBLIC</strong></span></em>
+							</sup>
+							</span>
+
+							<table style="width: 95%; margin-right: calc(2%); margin-left: calc(3%);">
+								<tbody>
+									<tr>
+										<td style="width: 100%; border-color: rgb(255, 255, 255); border-style: double; border-width: 1px; background-color: rgb(255, 255, 255);">
+											<div><span style="color: #414141;">INTRODUCTION<br><sub>[content here and what not.]</sub><br></span></div>
+											<br>
+											<br>
+											<br>
+											<br>
+										</td>
+									</tr>
+									<tr>
+										<td style="width: 100%; border-width: 1px; background-color: rgb(226, 226, 226);"><span style="color: #414141;">[like dislike share]</span></td>
+									</tr>
+								</tbody>
+							</table><span style="color: #414141;">[optional: device used here]</span></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<div class="tab-pane fade" id="menu2">
+
+			<h3>About</h3>
+
+			<p>
+				<br>
+			</p>
+			<!---MENU 2 TABS-->
+			<!--OVIEW= Overview, WORK= Work and Education. CONTACT, FAM=FAMILY, life= LIVE EVENTS-->
+
+			<table style="width: 44%; margin-right: calc(56%);">
+				<tbody>
+					<tr>
+						<td style="width: 19.8145%; background-color: rgb(0, 0, 0);"><span style="color: #ffffff;">Overview</span></td>
+						<td style="width: 80.1012%;"><span style="color: #ffffff;"><br></span></td>
+					</tr>
+					<tr>
+						<td style="width: 19.8145%; background-color: rgb(0, 0, 0);"><span style="color: #ffffff;">Work and Education</span></td>
+						<td style="width: 80.1012%;"><span style="color: #ffffff;"><br></span></td>
+					</tr>
+					<tr>
+						<td style="width: 19.8145%; background-color: rgb(0, 0, 0);"><span style="color: #ffffff;">Places You&#39;ve Lived</span></td>
+						<td style="width: 80.1012%;"><span style="color: #ffffff;"><br></span></td>
+					</tr>
+					<tr>
+						<td style="width: 19.8145%; background-color: rgb(0, 0, 0);"><span style="color: #ffffff;">Contact and Basic Info</span></td>
+						<td style="width: 80.1012%;"><span style="color: #ffffff;"><br></span></td>
+					</tr>
+					<tr>
+						<td style="width: 19.8145%; border-color: rgb(0, 0, 0); border-style: double; border-width: 1px; background-color: rgb(0, 0, 0);"><span style="color: #ffffff;">Family and Relationships</span></td>
+						<td style="width: 80.1012%;"><span style="color: #ffffff;"><br></span></td>
+					</tr>
+					<tr>
+						<td style="width: 19.8145%; background-color: rgb(0, 0, 0);"><span style="color: #ffffff;">Details about Yourself</span></td>
+						<td style="width: 80.1012%;"><span style="color: #ffffff;"><br></span></td>
+					</tr>
+					<tr>
+						<td style="width: 19.8145%; background-color: rgb(0, 0, 0);"><span style="color: #ffffff;">Life Events</span></td>
+						<td style="width: 80.1012%;">
+							<br>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<div class="tab-pane fade" id="menu3">
+
+			<p>
+				<br>
+			</p>
+
+			<table style="width: 45%; margin-right: calc(55%);">
+				<tbody>
+					<tr>
+						<td style="width: 100%; background-color: rgb(226, 226, 226);"><strong><span style="color: #414141;">Interests</span></strong>
+
+							<table style="width: 95%; margin-right: calc(2%); margin-left: calc(3%);">
+								<tbody>
+									<tr>
+										<td style="width: 100%; border-color: rgb(255, 255, 255); border-style: double; border-width: 1px; background-color: rgb(255, 255, 255);"><span style="color: #414141;"><strong><span style="font-size: 14px;">Likes:</span></strong>
+											</span><span style="font-size: 14px;"><br><span style="color: #414141;"><strong>Dislikes:</strong></span>
+											<br>
+											</span><span style="color: #414141;"><strong><span style="font-size: 14px;">Hobbies:</span></strong>
+											</span>
+
+											<ul style="list-style-type: disc;">
+												<li><span style="font-size: 14px;">Hobby 1</span></li>
+												<li><span style="font-size: 14px;">hobby 2</span></li>
+												<li><span style="font-size: 14px;">Hobby 3</span></li>
+											</ul>
+											<br>
+										</td>
+									</tr>
+									<tr>
+										<td style="width: 100%; border-width: 1px; background-color: rgb(226, 226, 226);">
+											<br>
+										</td>
+									</tr>
+								</tbody>
+							</table>
+							<br>
+							<br>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<div class="tab-pane fade active show" id="menu4">
+
+			<p>
+				<br>
+			</p>
+
+			<table style="width: 45%; margin-right: calc(55%);">
+				<tbody>
+					<tr>
+						<td style="width: 100%; background-color: rgb(226, 226, 226);"><sup><strong><span style="color: rgb(65, 65, 65);">&nbsp; &nbsp;&nbsp;</span><span style="color: rgb(65, 65, 65); background-color: rgb(155, 155, 155);">&nbsp;Friends (###)</span></strong></sup><sup><strong><span style="color: #737373;">&nbsp;</span></strong></sup><span style="color: rgb(115, 115, 115);"><sup><em><span style="font-size: 10px;"><strong><a href="#" id=""><img src="https://file.toyhou.se/users/coconutskull?19" class="fr-fic fr-rounded fr-dii" width="50" height="50"></a>&nbsp;</strong></span></em>
+							</sup><sup><em><span style="font-size: 10px;"><strong><a href="#" id=""><img src="https://file.toyhou.se/users/coconutskull?19" class="fr-fic fr-rounded fr-dii" width="50" height="50"></a>&nbsp;</strong></span></em></sup><sup><em><span style="font-size: 10px;"><strong><a href="#" id=""><img src="https://file.toyhou.se/users/coconutskull?19" class="fr-fic fr-rounded fr-dii" width="50" height="50"></a>&nbsp;</strong></span></em></sup><sup><em><span style="font-size: 10px;"><strong><a href="#" id=""><img src="https://file.toyhou.se/users/coconutskull?19" class="fr-fic fr-rounded fr-dii" width="50" height="50"></a>&nbsp;</strong></span></em></sup><sup><em><span style="font-size: 10px;"><strong><a href="#" id=""><img src="https://file.toyhou.se/users/coconutskull?19" class="fr-fic fr-rounded fr-dii" width="50" height="50"></a>&nbsp;</strong></span></em></sup><sup><em><span style="font-size: 10px;"><strong><a href="#" id=""><img src="https://file.toyhou.se/users/coconutskull?19" class="fr-fic fr-rounded fr-dii" width="50" height="50"></a>&nbsp;</strong></span></em></sup><sup><em><span style="font-size: 10px;"><strong>&nbsp;</strong></span></em></sup></span>
+
+							<table style="width: 95%; margin-right: calc(2%); margin-left: calc(3%);">
+								<tbody>
+									<tr>
+										<td style="width: 100%; border-color: rgb(255, 255, 255); border-style: double; border-width: 1px; background-color: rgb(255, 255, 255);"><sub><strong><span style="color: #414141;">People you may know...</span></strong></sub>
+											<br><span style="color: #414141;"><br></span><span style="color: rgb(115, 115, 115);"><sup><em><span style="font-size: 10px;"><strong><a href="#" id=""><img src="https://file.toyhou.se/users/coconutskull?19" class="fr-fic fr-rounded fr-dii" width="100" height="100"></a><span style="color: rgb(115, 115, 115);"><sup><em><span style="font-size: 10px;"><strong><a href="#" id=""><img src="https://file.toyhou.se/users/coconutskull?19" class="fr-fic fr-rounded fr-dii" width="100" height="100"></a>&nbsp;</strong></span></em>
+											</sup><sup><em><span style="font-size: 10px;"><strong><a href="#" id=""><img src="https://file.toyhou.se/users/coconutskull?19" class="fr-fic fr-rounded fr-dii" width="100" height="100"></a>&nbsp;</strong></span></em></sup><sup><em><span style="font-size: 10px;"><strong><a href="#" id=""><img src="https://file.toyhou.se/users/coconutskull?19" class="fr-fic fr-rounded fr-dii" width="100" height="100"></a>&nbsp;</strong></span></em></sup><sup><em><span style="font-size: 10px;"><strong>&nbsp;</strong></span></em></sup></span>
+											</strong>
+											</span>
+											</em>
+											</sup>
+											</span>
+											<br>
+										</td>
+									</tr>
+									<tr>
+										<td style="width: 100%; border-width: 1px; background-color: rgb(226, 226, 226);"><sub>[note that it&#39;s recommended to use a 2:2 ratio or your oc&#39;s toyhou.se profile avatar.]</sub>&nbsp;</td>
+									</tr>
+								</tbody>
+							</table>
+							<br>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+
+		<h3>
+			<br>
+		</h3>
+		<div class="tab-pane fade" id="menu5">
+
+			<table style="width: 45%; margin-right: calc(55%); margin-left: calc(0%);">
+				<tbody>
+					<tr>
+						<td style="width: 100%; background-color: rgb(226, 226, 226); border-color: rgb(226, 226, 226); border-style: double; border-width: 1px;">[TITLE] <sub>By/ Tagged [USER]</sub><sub>DATE</sub>
+
+							<table style="width: 90%; margin-left: calc(3%); margin-right: calc(7%);">
+								<tbody>
+									<tr>
+										<td style="width: 100%; background-color: rgb(255, 255, 255);">
+											<br>
+											<br>
+											<br>
+											<br>
+											<br>
+											<br>
+											<br>
+											<br>
+											<br>
+											<br>
+											<br>
+											<br>
+											<br>
+										</td>
+									</tr>
+									<tr>
+										<td style="width: 100%; border-color: rgb(65, 65, 65); border-style: double; border-width: 1px; background-color: rgb(226, 226, 226);">👍 👎 &nbsp;<sub><strong>share &nbsp;reply</strong></sub></td>
+									</tr>
+								</tbody>
+							</table><span style="font-size: 14px;">[CAPTION]</span></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<div class="tab-pane fade" id="menu6">
+
+			<p><strong>Activities</strong></p>
+
+			<table style="width: 45%; margin-right: calc(55%);">
+				<tbody>
+					<tr>
+						<td style="width: 100%; border-color: rgb(226, 226, 226); border-style: double; border-width: 1px; background-color: rgb(226, 226, 226);">
+							<br>
+
+							<table style="width: 100%;">
+								<tbody>
+									<tr>
+										<td style="width: 100%; background-color: rgb(255, 255, 255);">[jlyfjhjljkklkh]</td>
+									</tr>
+								</tbody>
+							</table>
+							<br>
+
+							<table style="width: 100%;">
+								<tbody>
+									<tr>
+										<td style="width: 100%; background-color: rgb(255, 255, 255);">
+											<br>
+										</td>
+									</tr>
+								</tbody>
+							</table>
+							<br>
+
+							<table style="width: 100%;">
+								<tbody>
+									<tr>
+										<td style="width: 100%; background-color: rgb(255, 255, 255);">
+											<br>
+										</td>
+									</tr>
+								</tbody>
+							</table>
+							<br>
+
+							<table style="width: 100%;">
+								<tbody>
+									<tr>
+										<td style="width: 100%; background-color: rgb(255, 255, 255);">
+											<br>
+										</td>
+									</tr>
+								</tbody>
+							</table>
+							<br>
+							<br>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+</section>
+
+<p>
+	<br>
+</p>
+<section id="2">
+
+	<h3>TIMELINE</h3>
+
+	<table style="width: 45%; margin-right: calc(55%);">
+		<tbody>
+			<tr>
+				<td style="width: 100%; background-color: rgb(226, 226, 226);">
+					<br>
+
+					<table style="width: 100%; margin-left: calc(0%);">
+						<tbody>
+							<tr>
+								<td style="width: 100%; background-color: rgb(255, 255, 255); border-color: rgb(255, 255, 255); border-style: double; border-width: 1px;"><img src="https://file.toyhou.se/users/coconutskull?19" class="fr-fic fr-fil fr-dii" width="50" height="50"><span style="color: #737373;">&nbsp;| <sup><strong>[Username]</strong></sup></span>
+									<br>
+									<br>[Comment/ Memes go here]</td>
+							</tr>
+							<tr>
+								<td>👍 👎 &nbsp;<sub><strong>share &nbsp;reply</strong></sub></td>
+							</tr>
+						</tbody>
+					</table>
+					<br>
+
+					<table style="width: 89%; margin-left: calc(11%);">
+						<tbody>
+							<tr>
+								<td style="width: 100%; border-color: rgb(110, 41, 18); border-style: double; border-width: 1px; background-color: rgb(255, 255, 255);"><img src="https://file.toyhou.se/users/coconutskull?19" class="fr-fic fr-fil fr-dii" width="50" height="50"><span style="color: #737373;">&nbsp;| <sup><strong>[Username]</strong></sup></span> [REPLY GOES HERE</td>
+							</tr>
+						</tbody>
+					</table>
+					<br>
+
+					<table style="width: 100%;">
+						<tbody>
+							<tr>
+								<td style="width: 100%; background-color: rgb(255, 255, 255); border-color: rgb(255, 255, 255); border-style: double; border-width: 1px;"><img src="https://file.toyhou.se/users/coconutskull?19" class="fr-fic fr-fil fr-dii" width="50" height="50"><span style="color: #737373;">&nbsp;| <sup><strong>[Username]</strong></sup></span>&nbsp;
+									<br>[Comment/ Memes go here]</td>
+							</tr>
+							<tr>
+								<td style="width: 100.0000%;">👍 👎 &nbsp;<sub><strong>share &nbsp;reply</strong></sub></td>
+							</tr>
+						</tbody>
+					</table>
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</section>
+
+<p>
+	<br>
+</p>
+
+<table style="width: 70%; margin-right: calc(30%);">
+	<tbody>
+		<tr>
+			<td style="width: 100%; background-color: rgb(155, 155, 155);"><img src="https://orig00.deviantart.net/9250/f/2019/048/a/e/banner_fake_by_romacci-dd01bgb.gif" class="fr-fic fr-dib" width="259" height="92"></td>
+		</tr>
+	</tbody>
+</table>
